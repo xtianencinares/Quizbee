@@ -13,7 +13,8 @@ public class Quiz {
             "Who wrote 'Romeo and Juliet'?",
             "What is the tallest mammal?",
             "What is the largest ocean?",
-            "Who invented the telephone?"
+            "Who invented the telephone?",
+            "Who invented the WIFI?"
         };
         
         String[] answers = {
