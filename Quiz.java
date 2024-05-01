@@ -14,7 +14,8 @@ public class Quiz {
             "What is the tallest mammal?",
             "What is the largest ocean?",
             "Who invented the telephone?",
-            "Who invented the WIFI?"
+            "Who invented the WIFI?",
+            "What is the meaning of ASEAN?"
         };
         
         String[] answers = {
