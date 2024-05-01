@@ -27,7 +27,8 @@ public class Quiz {
             "William Shakespeare",
             "Giraffe",
             "Pacific",
-            "Alexander Graham Bell"
+            "Alexander Graham Bell",
+            "NCR Corporation/Symbionics Corporation"
         };
 
         // Initialize Scanner for user input
