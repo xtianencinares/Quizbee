@@ -29,7 +29,8 @@ public class Quiz {
             "Giraffe",
             "Pacific",
             "Alexander Graham Bell",
-            "NCR Corporation/Symbionics Corporation"
+            "NCR Corporation/Symbionics Corporation",
+             "Association of Southeast Asian Nations"
         };
 
         // Initialize Scanner for user input
