@@ -15,7 +15,8 @@ public class Quiz {
             "What is the largest ocean?",
             "Who invented the telephone?",
             "Who invented the WIFI?",
-            "What is the meaning of ASEAN?"
+            "What is the meaning of ASEAN?",
+            "What is the meaning of NATO?"
         };
         
         String[] answers = {
@@ -30,7 +31,8 @@ public class Quiz {
             "Pacific",
             "Alexander Graham Bell",
             "NCR Corporation/Symbionics Corporation",
-            "Association of Southeast Asian Nations"
+            "Association of Southeast Asian Nations",
+            "North Atlantic Treaty Organization"
         };
 
         // Initialize Scanner for user input
