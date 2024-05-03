@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Quiz {
     public static void main(String[] args) {
-        // Questions and Answers v1.0
+        // Questions and Answers v1.1
         String[] questions = {
             "What is the capital of France?",
             "What is the largest planet in our solar system?",
