@@ -9,7 +9,7 @@ public class Quiz {
             "What is 2 + 2?",
             "Who painted the Mona Lisa?",
             "What year did World War II end?",
-            "What is the chemical symbol for water?",
+            "What is the chemical symbol for Water?",
             "Who wrote 'Romeo and Juliet'?",
             "What is the tallest mammal?",
             "What is the largest ocean?",
