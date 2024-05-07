@@ -55,7 +55,7 @@ public class Quiz {
             }
         }
 
-        // Display final score !
+        // Display final score . !
         System.out.println("Quiz completed! Your score is: " + score + "/" + questions.length);
 
         // Close Scanner
