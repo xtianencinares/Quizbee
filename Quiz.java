@@ -55,11 +55,11 @@ public class Quiz {
             }
         }
 
-        // Display final score . !
+        // Display final score Admin. !
         System.out.println("Quiz completed! Your score is: " + score + "/" + questions.length);
 
         // Close Scanner
         scanner.close();
     }
 }
-//Agoo MSFT Inc. V 1.0 2024
+//Agoo MSFT Inc. V 1.0 2024 
