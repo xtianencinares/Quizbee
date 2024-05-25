@@ -10,6 +10,11 @@ public class QuizBee {
                 {"What is the capital of France?", "Paris"},
                 {"What is the tallest mountain in the world?", "Mount Everest"},
                 {"What is the largest planet in our solar system?", "Jupiter"}
+                {"What is the capital of Japan?", "Tokyo"},
+                {"What is the capital of Philippines?", "Manila"},
+                {"What is the capital of Indonesia?", "Jakarta"},
+                {"What is the capital of India?", "New Deli"},
+                {"What is the capital of Mexico?", "Mexico City"},
         };
 
         int score = 0;
