@@ -15,6 +15,10 @@ public class QuizBee {
                 {"What is the capital of Indonesia?", "Jakarta"},
                 {"What is the capital of India?", "New Deli"},
                 {"What is the capital of Mexico?", "Mexico City"},
+                {"What is the capital of South Korea?", "Soul"},
+                {"What is the capital of North Korea?", "PyongYang"},
+                {"What is the capital of Russia?", "Moscow"},
+                {"What is the capital of ?", "Paris"},
         };
 
         int score = 0;
