@@ -5,7 +5,6 @@ public class QuizBee {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Define questions and answers
         String[][] questions = {
                 {"What is the capital of France?", "Paris"},
                 {"What is the tallest mountain in the world?", "Mount Everest"},
