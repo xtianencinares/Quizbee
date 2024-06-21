@@ -39,4 +39,4 @@ public class QuizBee {
         System.out.println("Your final score is: " + score + "/" + questions.length);
     }
 }
-// Agoo Use only Inc.
+// Agoo Use only Inc. 2024
