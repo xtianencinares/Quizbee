@@ -18,6 +18,7 @@ public class QuizBee {
                 {"What is the capital of North Korea?", "PyongYang"},
                 {"What is the capital of Russia?", "Moscow"},
                 {"What is the capital of Germany  ?", "Berlin"},
+                {"What is the capital of Thailand  ?", "Bangkok"},
         };
 
         int score = 0;
