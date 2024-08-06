@@ -23,7 +23,7 @@ public class QuizBee {
 
         int score = 0;
 
-        // Loop through each question 
+        // Loop through each question
         for (String[] question : questions) {
             System.out.println(question[0]);
             String answer = scanner.nextLine();
