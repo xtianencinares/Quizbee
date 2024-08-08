@@ -34,7 +34,7 @@ public class Quiz {
             "NCR Corporation/Symbionics Corporation",
             "Association of Southeast Asian Nations",
             "North Atlantic Treaty Organization",
-            "North Atlantic Treaty Organization"
+            "National Aeronautics and Space Administration"
         };
 
         // Initialize Scanner for user input
