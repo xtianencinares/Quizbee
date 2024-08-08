@@ -16,7 +16,8 @@ public class Quiz {
             "Who invented the telephone?",
             "Who invented the WIFI?",
             "What is the meaning of ASEAN?",
-            "What is the meaning of NATO?"
+            "What is the meaning of NATO?",
+            "What is the meaning of NASA?"
         };
         
         String[] answers = {
@@ -32,6 +33,7 @@ public class Quiz {
             "Alexander Graham Bell",
             "NCR Corporation/Symbionics Corporation",
             "Association of Southeast Asian Nations",
+            "North Atlantic Treaty Organization",
             "North Atlantic Treaty Organization"
         };
 
